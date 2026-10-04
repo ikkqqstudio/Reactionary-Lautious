@@ -4,6 +4,10 @@ Reactionary Theme But What If We Make It Look More Like Lautus Theme? Of Course,
 
 Bulit On Top Of [Expose Dark](https://store.kde.org/p/2348099)
 
+# Installation
+
+Put The Aurorae Folder In ~/.local/share/aurorae/themes And Also Put The desktoptheme Folder In ~/.local/share/plasma/desktoptheme/
+
 # For The Best Experience
 
 Use:
