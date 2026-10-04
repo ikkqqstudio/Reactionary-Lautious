@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="89"
+   height="36"
+   viewBox="0 0 89 36.000002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="switch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#d1d1d1"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="17.503479"
+     inkscape:cx="74.128119"
+     inkscape:cy="34.621688"
+     showgrid="true"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="-3.9999998"
+       originy="7.1001611e-14"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.41027832;"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient7"
+       x1="101.19048"
+       y1="45.047619"
+       x2="97"
+       y2="35"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.05,0,0,1.05,-18.250001,-12.300003)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4)">
+    <rect
+       style="opacity:0.5;fill:#008080;stroke-width:145.989;stroke-linecap:round"
+       id="hint-bar-size"
+       width="38"
+       height="15.999992"
+       x="3.9999995"
+       y="-0.9999935" />
+    <g
+       id="inactive-center"
+       transform="matrix(0.72727273,0,0,1.1428567,55.090909,-28.428557)"
+       style="stroke-width:1.09687">
+      <rect
+         style="opacity:0.15;fill:none;fill-opacity:1;stroke:none;stroke-width:1.09687;paint-order:stroke fill markers"
+         id="rect11"
+         width="11"
+         height="13.999997"
+         x="4"
+         y="24.000002" />
+      <rect
+         style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1.09687;paint-order:stroke fill markers"
+         id="rect7"
+         width="11"
+         height="7.0000005"
+         x="4"
+         y="27.499996" />
+      <rect
+         style="fill:#515151;fill-opacity:1;stroke:none;stroke-width:1.09687;paint-order:stroke fill markers"
+         id="rect8"
+         width="11"
+         height="0.87499678"
+         x="3.9999998"
+         y="33.625" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#handle"
+       id="handle-hover"
+       transform="matrix(-1,0,0,1,46.768157,41.163863)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#handle"
+       id="handle-pressed"
+       transform="matrix(-1,0,0,1,57.768159,59.163862)" />
+    <circle
+       style="opacity:1;fill:url(#linearGradient7);fill-opacity:1;stroke-width:2.00001;paint-order:stroke fill markers"
+       id="handle-shadow"
+       cx="81.5"
+       cy="25.499998"
+       r="10.5" />
+    <g
+       id="inactive-right"
+       transform="matrix(1.25,0,0,1.1428569,-20.25,-0.99999868)"
+       style="stroke-width:0.83666">
+      <rect
+         style="opacity:0.15;fill:none;fill-opacity:1;stroke:none;stroke-width:0.836659;paint-order:stroke fill markers"
+         id="rect17"
+         width="4"
+         height="13.999997"
+         x="69"
+         y="3.9073489e-06" />
+      <path
+         id="path1"
+         style="fill:#515151;fill-opacity:1;stroke-width:3.34665;paint-order:stroke fill markers"
+         d="m 69,3.4999996 v 7.0000014 h 1 a 2.9999998,3.5000006 0 0 0 0.002,0 A 2.9999998,3.5000006 0 0 0 73,7.0000002 2.9999998,3.5000006 0 0 0 70.001953,3.4999996 H 70 Z" />
+      <path
+         id="path8"
+         style="fill:#202020;fill-opacity:1;stroke-width:3.34665;paint-order:stroke fill markers"
+         d="m 69,3.4999996 v 6.1250008 h 1 a 2.9999998,3.0625003 0 0 0 0.002,0 A 2.9999998,3.0625003 0 0 0 73,6.5624999 2.9999998,3.0625003 0 0 0 70.001953,3.4999996 H 70 Z" />
+    </g>
+    <g
+       id="inactive-left"
+       transform="matrix(1.2499999,0,0,1.1428565,-14.499997,-0.99999602)"
+       style="stroke-width:0.836661">
+      <rect
+         style="opacity:0.15;fill:none;fill-opacity:1;stroke:none;stroke-width:0.83666;paint-order:stroke fill markers"
+         id="rect2"
+         width="4"
+         height="13.999997"
+         x="-58"
+         y="3.9073489e-06"
+         transform="scale(-1,1)" />
+      <path
+         id="path2"
+         style="fill:#202020;fill-opacity:1;stroke-width:3.34665;paint-order:stroke fill markers"
+         d="m 58,3.5000022 v 6.9999958 h -1 a 2.9999998,3.499998 0 0 1 -0.002,0 A 2.9999998,3.499998 0 0 1 54,7.0000002 2.9999998,3.499998 0 0 1 56.998047,3.5000022 H 57 Z" />
+    </g>
+    <g
+       id="active-center"
+       transform="matrix(0.72727273,0,0,1.1428567,77.090909,-28.428557)"
+       style="stroke-width:1.09687">
+      <rect
+         style="opacity:0.15;fill:none;fill-opacity:1;stroke:none;stroke-width:1.09687;paint-order:stroke fill markers"
+         id="rect3"
+         width="11"
+         height="13.999997"
+         x="4"
+         y="24.000002" />
+      <rect
+         style="fill:#d66521;fill-opacity:1;stroke:none;stroke-width:1.09687;paint-order:stroke fill markers"
+         id="rect4"
+         width="11"
+         height="7.0000005"
+         x="4"
+         y="27.499996" />
+      <rect
+         style="fill:#ee7025;fill-opacity:1;stroke:none;stroke-width:1.09687;paint-order:stroke fill markers"
+         id="rect9"
+         width="11"
+         height="0.87499678"
+         x="4"
+         y="33.625" />
+    </g>
+    <g
+       id="active-right"
+       transform="matrix(1.2499998,0,0,1.1428569,1.7500182,-0.99999868)"
+       style="stroke-width:0.83666">
+      <rect
+         style="opacity:0.15;fill:none;fill-opacity:1;stroke:none;stroke-width:0.836659;paint-order:stroke fill markers"
+         id="rect5"
+         width="4"
+         height="13.999997"
+         x="69"
+         y="3.9073489e-06" />
+      <path
+         id="path5"
+         style="fill:#d66521;fill-opacity:1;stroke-width:3.34665;paint-order:stroke fill markers"
+         d="m 69,3.4999996 v 7.0000014 h 1 a 2.9999998,3.5000006 0 0 0 0.002,0 A 2.9999998,3.5000006 0 0 0 73,7.0000002 2.9999998,3.5000006 0 0 0 70.001953,3.4999996 H 70 Z" />
+    </g>
+    <g
+       id="active-left"
+       transform="matrix(1.2499999,0,0,1.1428565,7.5000035,-0.99999602)"
+       style="stroke-width:0.836661">
+      <rect
+         style="opacity:0.15;fill:none;fill-opacity:1;stroke:none;stroke-width:0.83666;paint-order:stroke fill markers"
+         id="rect6"
+         width="4"
+         height="13.999997"
+         x="-58"
+         y="3.9073489e-06"
+         transform="scale(-1,1)" />
+      <path
+         id="path6"
+         style="fill:#ee7025;fill-opacity:1;stroke-width:3.34665;paint-order:stroke fill markers"
+         d="m 58,3.5000022 v 6.9999958 h -1 a 2.9999998,3.499998 0 0 1 -0.002,0 A 2.9999998,3.499998 0 0 1 54,7.0000002 2.9999998,3.499998 0 0 1 56.998047,3.5000022 H 57 Z" />
+      <path
+         id="path9"
+         style="fill:#d66521;fill-opacity:1;stroke-width:3.34665;paint-order:stroke fill markers"
+         d="m 58,3.5000022 v 6.1249993 h -1 a 2.9999998,3.0624997 0 0 1 -0.002,0 A 2.9999998,3.0624997 0 0 1 54,6.5625019 2.9999998,3.0624997 0 0 1 56.998047,3.5000022 H 57 Z" />
+    </g>
+    <circle
+       style="fill:#cccccc;stroke:none;stroke-width:1.25;stroke-linecap:square"
+       id="handle"
+       cx="15"
+       cy="25.999998"
+       r="9" />
+  </g>
+</svg>

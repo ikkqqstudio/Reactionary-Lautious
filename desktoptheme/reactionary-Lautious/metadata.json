@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "ikkqq@aster.cx",
+                "Name": "Ikkqqstudio"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "ServiceTypes": [
+            "Plasma/Theme"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Reactionary Latious",
+        "Description": "Kinda Lautus",
+        "Id": "reactionarylatious",
+        "Version": "1.0",
+        "License": "GPL-2.0+",
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "KWin/Aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "ikkqq@aster.cx",
+                "Name": "Ikkqqstudio"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "KWin/Aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Reactionary Latious",
+        "Description" : "Kinda Lautus",
+        "Id": "reactionarylatious",
+        "Version": "1.0",
+        "License": "GPL-2.0+",
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}

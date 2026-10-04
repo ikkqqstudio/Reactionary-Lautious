@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Kinda Lautus
+Name=Reactionary Latious
+X-KDE-PluginInfo-Author=Ikkqqstudio
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Email=ikkqq@aster.cx
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL3
+X-KDE-PluginInfo-Name=reactionarylatious
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[BlurBehindEffect]
+enabled=true
