@@ -19,5 +19,5 @@ Use:
 
 # Attribution
 
-- Expose Dark And Reactionary (GPLv2+) By PHOB1AN
+- Expose Dark And Reactionary (GPLv3) By PHOB1AN
 - ReactOS Lautus Theme (GPLv2+) By ReactOS Contributors
